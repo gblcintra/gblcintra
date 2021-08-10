@@ -18,7 +18,9 @@ I'm learning at the moment **ReactJS**
 
 ## 🚀💻 Technologies & Tools
 
-![VTEX](https://img.shields.io/badge/-Vtex-ff69b4?style=flat-square&logo=vtex)
+![VTEX](https://avatars.githubusercontent.com/u/1288938?s=25)
+![VTEX](https://img.shields.io/badge/-Vtex-ff69b4?style=flat-square&logo=vtex?color=white)
+![VTEX](https://avatars.githubusercontent.com/u/1288938?s=25)
 ![VTEXIO](https://img.shields.io/badge/-VtexIO-ff69b4?style=flat-square&logo=vtex)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
