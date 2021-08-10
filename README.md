@@ -16,7 +16,7 @@ I'm learning at the moment **ReactJS**
 [![CodePen Badge](https://img.shields.io/badge/-CodePen-000000.svg?style=flat-square&logo=codepen&logoColor=white&link=https://codepen.io/gblcintra)](https://codepen.io/gblcintra)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:contato.gabrielcintra@gmail.com)](mailto:contato.gabrielcintra@gmail.com)
 #### 🤛🎮 Group and Games
-[![Discord](https://img.shields.io/badge/-Ratoeira-7289DA?style=flat-square&logo=discord&logoColor=white&link=https://discord.gg/H66zPbh)](https://discord.gg/H66zPbh)
+[![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white&link=https://discord.gg/H66zPbh)](https://discord.gg/H66zPbh)
 [![Steam](https://img.shields.io/badge/-Steam-000000?style=flat-square&logo=steam&logoColor=white&link=https://https://steamcommunity.com/id/gblcintra/)](https://steamcommunity.com/id/gblcintra/)
 [![Twitch](https://img.shields.io/badge/-Twitch-9146FF?style=flat-square&logo=twitch&logoColor=white&link=https://www.twitch.tv/gblcintra)](https://www.twitch.tv/gblcintra)
 
