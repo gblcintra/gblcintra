@@ -15,6 +15,12 @@ I'm learning at the moment **ReactJS**
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://https://www.facebook.com/gblcintra)](https://www.facebook.com/gblcintra)
 [![CodePen Badge](https://img.shields.io/badge/-CodePen-000000.svg?style=flat-square&logo=codepen&logoColor=white&link=https://codepen.io/gblcintra)](https://codepen.io/gblcintra)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:contato.gabrielcintra@gmail.com)](mailto:contato.gabrielcintra@gmail.com)
+#### 🤛🎮 Group and Games
+[![Discord](https://img.shields.io/badge/-Ratoeira-7289DA?style=flat-square&logo=discord&logoColor=white&link=https://discord.gg/H66zPbh)](https://discord.gg/H66zPbh)
+[![Steam](https://img.shields.io/badge/-Steam-000000?style=flat-square&logo=steam&logoColor=white&link=https://https://steamcommunity.com/id/gblcintra/)](https://steamcommunity.com/id/gblcintra/)
+[![Twitch](https://img.shields.io/badge/-Twitch-9146FF?style=flat-square&logo=twitch&logoColor=white&link=https://www.twitch.tv/gblcintra)](https://www.twitch.tv/gblcintra)
+
+
 
 ## 🚀💻 Technologies & Tools
 
@@ -41,16 +47,8 @@ I'm learning at the moment **ReactJS**
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
-
-## 🤜🤛 Group
-[![Discord](https://img.shields.io/badge/-Ratoeira-7289DA?style=flat-square&logo=discord&logoColor=white&link=https://discord.gg/H66zPbh)](https://discord.gg/H66zPbh)
-
-## 🎮🕹 Games
-[![Steam](https://img.shields.io/badge/-Steam-000000?style=flat-square&logo=steam&logoColor=white&link=https://https://steamcommunity.com/id/gblcintra/)](https://steamcommunity.com/id/gblcintra/)
-[![Steam](https://img.shields.io/badge/-Twitch-9146FF?style=flat-square&logo=twitch&logoColor=white&link=https://www.twitch.tv/gblcintra)](https://www.twitch.tv/gblcintra)
-
-
 ## ⚡ GitHub Stats
 
 <!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=gblcintra&show_icons=true&count_private=true&show_icons=true&include_all_commits=true) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gblcintra&hide=TeX&layout=compact)
+
