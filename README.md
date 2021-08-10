@@ -1,16 +1,54 @@
-### Hi there 👋
+<!-- <p align="left"><img src="https://komarev.com/ghpvc/?username=gblcintra" alt="gblcintra" /></p> -->
 
-<!--
-**gblcintra/gblcintra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Gabriel Cintra</h1>
+<p align = "justify">Front-end Developer, Tea and Coffee lover, Javascript and SPA fan, Performance curious. Currently working with <strong>VTEX</strong>.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I currently work at [{ performa_it }](https://performait.com/)
+
+I'm learning at the moment **ReactJS**
+
+
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/gabrielcintraa)](https://twitter.com/gabrielcintraa)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/gblcintra/?hl=pt-br)](https://www.instagram.com/gblcintra/)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gblcintra/)](https://www.linkedin.com/in/gblcintra/)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://https://www.facebook.com/gblcintra)](https://www.facebook.com/gblcintra)
+[![CodePen Badge](https://img.shields.io/badge/-CodePen-000000.svg?style=flat-square&logo=codepen&logoColor=white&link=https://codepen.io/gblcintra)](https://codepen.io/gblcintra)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:contato.gabrielcintra@gmail.com)](mailto:contato.gabrielcintra@gmail.com)
+
+## 🚀💻 Technologies & Tools
+
+![VTEX](https://img.shields.io/badge/-Vtex-ff69b4?style=flat-square&logo=vtex)
+![VTEXIO](https://img.shields.io/badge/-VtexIO-ff69b4?style=flat-square&logo=vtex)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Nodejs](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
+![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white)
+![NPM](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+<!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript) -->
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Firebase](https://img.shields.io/badge/-firebase-ffca28?style=flat-square&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
+
+
+## 🤜🤛 Group
+[![Discord](https://img.shields.io/badge/-Ratoeira-7289DA?style=flat-square&logo=discord&logoColor=white&link=https://discord.gg/H66zPbh)](https://discord.gg/H66zPbh)
+
+## 🎮🕹 Games
+[![Steam](https://img.shields.io/badge/-Steam-000000?style=flat-square&logo=steam&logoColor=white&link=https://https://steamcommunity.com/id/gblcintra/)](https://steamcommunity.com/id/gblcintra/)
+[![Steam](https://img.shields.io/badge/-Twitch-9146FF?style=flat-square&logo=twitch&logoColor=white&link=https://www.twitch.tv/gblcintra)](https://www.twitch.tv/gblcintra)
+
+
+## ⚡ GitHub Stats
+
+<!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=gblcintra&show_icons=true&count_private=true&show_icons=true&include_all_commits=true) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gblcintra&hide=TeX&layout=compact)
