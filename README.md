@@ -4,7 +4,7 @@
 <h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Gabriel Cintra</h1>
 <p align = "justify">Front-end Developer, Tea and Coffee lover, Javascript and SPA fan, Performance curious. Currently working with <strong>VTEX</strong>.</p>
 
-I currently work at [{ performa_it }](https://performait.com/)
+I currently work at [Jüssi](https://jussi.com.br/)
 
 I'm learning at the moment **ReactJS**
 
