@@ -1,6 +1,10 @@
-<!-- <p align="left"><img src="https://komarev.com/ghpvc/?username=gblcintra" alt="gblcintra" /></p> -->
+<p align="left"><img src="https://komarev.com/ghpvc/?username=gblcintra" alt="gblcintra" width="0px"/></p>
 
+<div align="right"> 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+</div>
 
+<div align="left"> 
 <h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Gabriel Cintra</h1>
 <p align = "justify">Front-end Developer, Tea and Coffee lover, Javascript and SPA fan, Performance curious. Currently working with <strong>VTEX</strong>.</p>
 
@@ -22,7 +26,7 @@ I'm learning at the moment **ReactJS**
 
 
 
-## 🚀💻 Technologies & Tools
+#### 🚀💻 Technologies & Tools
 
 ![VTEX](https://avatars.githubusercontent.com/u/1288938?s=25)
 ![VTEX](https://img.shields.io/badge/-VtexCMS-ff69b4?style=flat-square&logo=vtex?color=white)
@@ -47,8 +51,13 @@ I'm learning at the moment **ReactJS**
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
-## ⚡ GitHub Stats
+</div>
 
+<div align="center"> 
+⚡ GitHub Stats
+  
 <!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=gblcintra&show_icons=true&count_private=true&show_icons=true&include_all_commits=true) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gblcintra&hide=TeX&layout=compact)
+  
+</div>
 
