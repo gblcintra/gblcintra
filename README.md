@@ -1,7 +1,7 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=gblcintra" alt="gblcintra" width="0px"/></p>
 
 <div align="right"> 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://user-images.githubusercontent.com/15270961/150045160-619b5d85-5806-4381-8150-9a7913afac6d.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 </div>
 
 <div align="left"> 
