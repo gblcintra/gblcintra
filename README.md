@@ -8,7 +8,7 @@
 <h1 align = "justify"> Hi 👋, I am Gabriel Cintra</h1>
 <p align = "justify">Front-end Developer, Tea and Coffee lover, Javascript and SPA fan, Performance curious. Currently working with <strong>VTEX</strong>.</p>
 
-I currently work at [Jüssi](https://jussi.com.br/)
+I currently work at [Jüssi](https://jussi.com.br/) | [Consul](https://www.consul.com.br/)
 
 I'm learning at the moment **ReactJS**
 
