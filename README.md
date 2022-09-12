@@ -41,11 +41,11 @@ I'm learning at the moment **ReactJS**
 ![Nodejs](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white)
 ![NPM](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Firebase](https://img.shields.io/badge/-firebase-ffca28?style=flat-square&logo=firebase&logoColor=black)
+<!-- ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) -->
+<!-- ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) -->
+<!-- ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) -->
+<!-- ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql) -->
+<!-- ![Firebase](https://img.shields.io/badge/-firebase-ffca28?style=flat-square&logo=firebase&logoColor=black) -->
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
@@ -57,13 +57,9 @@ I'm learning at the moment **ReactJS**
 ⚡ GitHub Stats
   
 <!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=gblcintra&show_icons=true&count_private=true&show_icons=true&include_all_commits=true) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gblcintra&hide=TeX&layout=compact)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gblcintra&hide=TeX&layout=compact) -->
 
-<!-- ![Graph](profile-3d-contrib/profile-night-rainbow.svg) -->
-<p align="center">
-    <a href="./profile-3d-contrib/profile-night-green.svg">
-        <img width="900em" src="./profile-3d-contrib/profile-night-rainbow.svg">
-    </a>
-</p>
+![Graph](profile-3d-contrib/profile-night-rainbow.svg)
+
 </div>
 
