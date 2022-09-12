@@ -59,7 +59,11 @@ I'm learning at the moment **ReactJS**
 <!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=gblcintra&show_icons=true&count_private=true&show_icons=true&include_all_commits=true) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gblcintra&hide=TeX&layout=compact)
 
-![Graph](profile-3d-contrib/profile-night-rainbow.svg)
-  
+<!-- ![Graph](profile-3d-contrib/profile-night-rainbow.svg) -->
+<p align="center">
+    <a href="./profile-3d-contrib/profile-night-green.svg">
+        <img width="900em" src="./profile-3d-contrib/profile-night-rainbow.svg">
+    </a>
+</p>
 </div>
 
