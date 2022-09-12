@@ -24,8 +24,10 @@ I'm learning at the moment **ReactJS**
 [![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white&link=https://discord.gg/4adnj6xhpf)](https://discord.gg/4adnj6xhpf)
 [![Steam](https://img.shields.io/badge/-Steam-000000?style=flat-square&logo=steam&logoColor=white&link=https://https://steamcommunity.com/id/gblcintra/)](https://steamcommunity.com/id/gblcintra/)
 [![Twitch](https://img.shields.io/badge/-Twitch-9146FF?style=flat-square&logo=twitch&logoColor=white&link=https://www.twitch.tv/gblcintra)](https://www.twitch.tv/gblcintra)
+</div>
 
 
+<div align="left">
 
 #### 🚀💻 Technologies & Tools
 
@@ -50,12 +52,10 @@ I'm learning at the moment **ReactJS**
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
-
 </div>
 
-<div align="center"> 
-⚡ GitHub Stats
-  
+#### ⚡ GitHub Stats
+<div align="center">
 <!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=gblcintra&show_icons=true&count_private=true&show_icons=true&include_all_commits=true) -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gblcintra&hide=TeX&layout=compact) -->
 
