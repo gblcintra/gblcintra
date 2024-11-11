@@ -56,6 +56,11 @@ I'm learning at the moment **ReactJS**
 </div>
 
 #### ⚡ GitHub Stats
+<br/>
+<a href="https://github.com/gblcintra" title="Perfil do Gabriel">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gblcintra&theme=dracula&show_icons=true" />
+</a>
+
 <div align="center">
 <!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=gblcintra&show_icons=true&count_private=true&show_icons=true&include_all_commits=true) -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gblcintra&hide=TeX&layout=compact) -->
