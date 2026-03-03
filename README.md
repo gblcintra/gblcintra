@@ -5,12 +5,19 @@
 </div>
 
 <div align="left"> 
-<h1 align = "justify"> Hi 👋, I am Gabriel Cintra</h1>
-<p align = "justify">Front-end Developer, Tea and Coffee lover, Javascript and SPA fan, Performance curious. Currently working with <strong>VTEX</strong>.</p>
-
-I currently work at [Jüssi](https://jussi.com.br/) | [Brastemp](https://www.brastemp.com.br/) | [Consul](https://www.consul.com.br/) | [CompraCerta](https://www.compracerta.com.br/) | [Whirlpool](https://www.whirlpool.com.br)
-
-I'm learning at the moment **ReactJS**
+<h1 align="justify">Hi 👋, I am Gabriel Cintra</h1>
+<p align="justify">
+Front-end Developer, Tea and Coffee lover, JavaScript & SPA fan. Currently working with <strong>VTEX</strong>.
+</p>
+<p>
+Currently working at: 
+<a href="https://jussi.com.br/">Jüssi</a> | 
+<a href="https://www.brastemp.com.br/">Brastemp</a> | 
+<a href="https://www.consul.com.br/">Consul</a> | 
+<a href="https://www.compracerta.com.br/">CompraCerta</a> | 
+<a href="https://www.whirlpool.com.br/">Whirlpool</a>
+</p>
+<p>Currently learning: <strong>ReactJS</strong></p>
 
 
 [![X Badge](https://img.shields.io/badge/-Twitter-000000?style=flat-square&logo=x&logoColor=white&link=https://twitter.com/gabrielcintraa)](https://twitter.com/gabrielcintraa)
