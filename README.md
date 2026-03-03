@@ -57,12 +57,16 @@ I'm learning at the moment **ReactJS**
 
 #### ⚡ GitHub Stats
 <div align="center">
+  
+<!-- ![Github Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=gblcintra&show_icons=true&theme=dracula&count_private=true&show_icons=true&include_all_commits=true) -->
 
-<!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=gblcintra&show_icons=true&theme=dracula&count_private=true&show_icons=true&include_all_commits=true) -->
+<!-- ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gblcintra&hide=TeX&theme=dracula&layout=compact)-->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gblcintra&hide=TeX&theme=dracula&layout=compact) 
+![Graph](profile-3d-contrib/profile-night-rainbow.svg)
 
-<!-- ![Graph](profile-3d-contrib/profile-night-rainbow.svg)-->
+<!-- <p align="center">
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" width="350"/>
+</p> -->
 
 </div>
 
