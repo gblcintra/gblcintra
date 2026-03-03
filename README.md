@@ -17,8 +17,6 @@ Currently working at:
 <a href="https://www.compracerta.com.br/">CompraCerta</a> | 
 <a href="https://www.whirlpool.com.br/">Whirlpool</a>
 </p>
-<p>Currently learning: <strong>ReactJS</strong></p>
-
 
 [![X Badge](https://img.shields.io/badge/-Twitter-000000?style=flat-square&logo=x&logoColor=white&link=https://twitter.com/gabrielcintraa)](https://twitter.com/gabrielcintraa)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/gblcintra/?hl=pt-br)](https://www.instagram.com/gblcintra/)
