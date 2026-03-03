@@ -62,6 +62,11 @@ I'm learning at the moment **ReactJS**
 ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-0052CC?style=flat-square&logo=bitbucket)
 
+#### 📋 Project Management
+
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Teamwork](https://img.shields.io/badge/Teamwork-009FDA?style=flat-square&logo=teamwork&logoColor=white)
+
 
 <!-- ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) -->
 <!-- ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) -->
