@@ -29,28 +29,39 @@ I'm learning at the moment **ReactJS**
 
 <div align="left">
 
-#### 🚀💻 Technologies & Tools
+#### 🚀 Core VTEX Stack
 
-![VTEX](https://img.shields.io/badge/-Vtex CMS-ff69b4?style=flat-square&logo=vtex)
-![VTEXIO](https://img.shields.io/badge/-Vtex IO-ff69b4?style=flat-square&logo=vtex)
-![VTEXFAST](https://img.shields.io/badge/-Vtex FastStore-ff69b4?style=flat-square&logo=vtex)
+![VTEX](https://img.shields.io/badge/-Vtex CMS-ED125F?style=flat-square&logo=vtex)
+![VTEXIO](https://img.shields.io/badge/-Vtex IO-ED125F?style=flat-square&logo=vtex)
+![VTEXFAST](https://img.shields.io/badge/-FastStore-ED125F?style=flat-square&logo=vtex)
+![OrderForm](https://img.shields.io/badge/OrderForm-API-informational?style=flat-square&logo=vtex)
+
+#### 💻 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Tachyons](https://img.shields.io/badge/Tachyons-000000?style=flat-square&logo=tachyons&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
-![ReactJs](https://img.shields.io/badge/-ReactJs-20232A?style=flat-square&logo=react)
-![GRAPHQL](https://img.shields.io/badge/-GraphQL-ff69b4?style=flat-square&logo=graphql)
+
+#### ⚙ Backend & Tooling
 ![Nodejs](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
 ![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white)
 ![NPM](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+
+#### 🔧 Version Control
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
+![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![BitBucket](https://img.shields.io/badge/-BitBucket-0052CC?style=flat-square&logo=bitbucket)
+
+
 <!-- ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) -->
 <!-- ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) -->
 <!-- ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) -->
