@@ -22,7 +22,7 @@ I'm learning at the moment **ReactJS**
 [![GitHub gblcintra]( https://img.shields.io/github/followers/gblcintra?label=follow&style=social)](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fgblcintra)
 #### 🤛🎮 Group and Games
 [![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white&link=https://discord.gg/4adnj6xhpf)](https://discord.gg/zK8nKFQkB2)
-[![Steam](https://img.shields.io/badge/-Steam-000000?style=flat-square&logo=steam&logoColor=white&link=https://https://steamcommunity.com/id/gblcintra/)](https://steamcommunity.com/id/gblcintra/)
+<!-- [![Steam](https://img.shields.io/badge/-Steam-000000?style=flat-square&logo=steam&logoColor=white&link=https://https://steamcommunity.com/id/gblcintra/)](https://steamcommunity.com/id/gblcintra/) -->
 [![Twitch](https://img.shields.io/badge/-Twitch-9146FF?style=flat-square&logo=twitch&logoColor=white&link=https://www.twitch.tv/gblcintra)](https://www.twitch.tv/gblcintra)
 </div>
 
