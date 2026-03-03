@@ -48,6 +48,7 @@ I'm learning at the moment **ReactJS**
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Tachyons](https://img.shields.io/badge/Tachyons-000000?style=flat-square&logo=tachyons&logoColor=white)
+![CSS Modules](https://img.shields.io/badge/CSS%20Modules-000000?style=flat-square&logo=css3&logoColor=white)
 
 #### ⚙ Backend & Tooling
 ![Nodejs](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
