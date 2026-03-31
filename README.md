@@ -4,6 +4,7 @@
 <img src="https://user-images.githubusercontent.com/15270961/150045160-619b5d85-5806-4381-8150-9a7913afac6d.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 </div>
 
+
 <div align="left"> 
 <h1 align="justify">Hi 👋, I am Gabriel Cintra</h1>
 <p align="justify">
@@ -63,6 +64,14 @@ Currently working at:
 ![NPM](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
+</div>
+
+<div align="right">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=gblcintra&show_icons=true&theme=dracula&count_private=true&show_icons=true&include_all_commits=true" width="45%" align="right" />
+</div>
+
+<div align="left">
+
 #### 🔧 Version Control
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
@@ -82,18 +91,20 @@ Currently working at:
 
 </div>
 
+
 #### ⚡ GitHub Stats
 <div align="center">
   
-<!-- ![Github Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=gblcintra&show_icons=true&theme=dracula&count_private=true&show_icons=true&include_all_commits=true) -->
+<!-- <p align="center">
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" width="49%"/>
+</p> -->
+
+<!-- ![Github Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=gblcintra&show_icons=true&theme=dracula&count_private=true&show_icons=true&include_all_commits=true) -
 
 <!-- ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gblcintra&hide=TeX&theme=dracula&layout=compact)-->
 
 ![Graph](profile-3d-contrib/profile-night-rainbow.svg)
 
-<!-- <p align="center">
-  <img src="profile-3d-contrib/profile-night-rainbow.svg" width="350"/>
-</p> -->
 
 </div>
 
