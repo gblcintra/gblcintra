@@ -13,7 +13,7 @@ Front-end Developer, Tea and Coffee lover, JavaScript & SPA fan. Currently worki
 <p>
 Currently working at: 
   
-<a href="https://jussi.com.br/">Jüssi</a> | 
+<a href="https://barq.brastemp.com.br/">B-Arq</a> | 
 <a href="https://www.brastemp.com.br/">Brastemp</a> | 
 <a href="https://www.consul.com.br/">Consul</a> | 
 <a href="https://www.compracerta.com.br/">CompraCerta</a> | 
