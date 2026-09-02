@@ -66,9 +66,9 @@ Currently working at:
 
 </div>
 
-<div align="right">
+<!-- <div align="right">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=gblcintra&show_icons=true&theme=dracula&count_private=true&show_icons=true&include_all_commits=true" width="45%" align="right" />
-</div>
+</div> -->
 
 <div align="left">
 
